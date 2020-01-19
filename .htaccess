@@ -1,0 +1,4 @@
+AddDefaultCharset utf-8
+#перенапрвление
+RewriteEngine On
+RewriteRule (.*) public/$1
